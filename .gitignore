@@ -1,0 +1,9 @@
+*.jar
+*.zip
+*.iml
+
+.idea/
+target/
+
+release.properties
+pom.xml.releaseBackup
